@@ -27,7 +27,7 @@ This site displays information about Ithaca’s 2014 Apple Harvest Festival, an 
 
 
 ### System Requirements
-EventBrite Visualizer requires a computer with Internet Access and a
+AppleFest website requires a computer with Internet Access and a
 "modern" browser.  Supported browsers include Firefox, Chrome, Safari,
 Opera, IE9+.
 
