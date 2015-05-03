@@ -12,17 +12,17 @@ This site displays information about Ithaca’s 2014 Apple Harvest Festival, an 
 
 ### Main categories on AppleFest site
 - Home
-..*the main landing page
+  * The main landing page
 - About
-..*Describes what AppleFest is
-..*Links to more information
-..*Shows sponsors
+  * Describes what AppleFest is
+  * Links to more information
+  * Shows sponsors
 - Schedule
-..*Shows schedule
+  * Shows schedule
 - Attractions
-..*Festival attractions
-..*Vendors
-..*Community events
+  * Festival attractions
+  * Vendors
+  * Community events
 - Map
 
 
