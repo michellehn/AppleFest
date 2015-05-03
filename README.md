@@ -7,7 +7,7 @@ Apple Harvest Festival 2014 Site
 ![screenshot2](https://raw.githubusercontent.com/michellehn/AppleFest/master/images/screenshots/screenshot2.png)
 - - - - -
 
-This site displays information about Ithaca’s 2014 Apple Harvest Festival, an annual cultural event that occurs in the Ithaca Commons. The site includes information such as what the festival is, sponsors, schedule of events, main attractions and vendors, and an event map. This website was a project for my Web Design course at Cornell Unversity.
+This site displays information about Ithaca’s 2014 Apple Harvest Festival, an annual cultural event that occurs in the Ithaca Commons. The site includes information such as what the festival is, sponsors, schedule of events, main attractions and vendors, and an event map. This website was a project for my Web Design course at Cornell University.
 
 
 ### Main categories on AppleFest site
@@ -32,7 +32,7 @@ EventBrite Visualizer requires a computer with Internet Access and a
 Opera, IE9+.
 
 
-### To Install & Run EventBrite Visualizer
+### To Install & Run AppleFest site
 Unzip the files into a folder.  On a Mac or PC, navigate to
 AppleFest’s folder, then double-click the "index.html" file.
 
